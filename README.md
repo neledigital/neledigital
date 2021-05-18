@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neledigital  my name is Fabian Vidal Roa 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning phyton
-- 💞️ studying information systems analysis and development
+- 💞️ i am studying information systems analysis and development
 - 📫 How to reach me  +573004266839
 
 <!---
